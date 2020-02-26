@@ -33,12 +33,12 @@
         <sys_created_by>mayank.gupta@snc</sys_created_by>
         <sys_created_on>2020-02-20 12:10:31</sys_created_on>
         <sys_id>3c88abc61b838c1001570d88cc4bcb27</sys_id>
-        <sys_mod_count>39</sys_mod_count>
+        <sys_mod_count>40</sys_mod_count>
         <sys_updated_by>mayank.gupta@snc</sys_updated_by>
-        <sys_updated_on>2020-02-20 12:30:02</sys_updated_on>
+        <sys_updated_on>2020-02-25 16:09:47</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="NeedIt Approval">2c4f5f8e1b438c1001570d88cc4bcb67</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
