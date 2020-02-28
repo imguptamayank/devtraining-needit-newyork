@@ -57,6 +57,25 @@
             <sys_updated_on>2020-02-20 12:09:54</sys_updated_on>
             <value>3</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>mayank.gupta@snc</sys_created_by>
+            <sys_created_on>2020-02-28 12:01:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4633b0b0db134450e6f8d90d68961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>mayank.gupta@snc</sys_updated_by>
+            <sys_updated_on>2020-02-28 12:01:44</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>state</element>
             <name>x_58872_needit_needit_task</name>
